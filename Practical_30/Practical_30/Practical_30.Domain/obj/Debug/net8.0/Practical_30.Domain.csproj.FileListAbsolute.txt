@@ -1,0 +1,11 @@
+C:\Users\hem.gajjar\source\repos\Unit_Testing_Practical\Practical_30\Practical_30\Practical_30.Domain\bin\Debug\net8.0\Practical_30.Domain.deps.json
+C:\Users\hem.gajjar\source\repos\Unit_Testing_Practical\Practical_30\Practical_30\Practical_30.Domain\bin\Debug\net8.0\Practical_30.Domain.dll
+C:\Users\hem.gajjar\source\repos\Unit_Testing_Practical\Practical_30\Practical_30\Practical_30.Domain\bin\Debug\net8.0\Practical_30.Domain.pdb
+C:\Users\hem.gajjar\source\repos\Unit_Testing_Practical\Practical_30\Practical_30\Practical_30.Domain\obj\Debug\net8.0\Practical_30.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hem.gajjar\source\repos\Unit_Testing_Practical\Practical_30\Practical_30\Practical_30.Domain\obj\Debug\net8.0\Practical_30.Domain.AssemblyInfoInputs.cache
+C:\Users\hem.gajjar\source\repos\Unit_Testing_Practical\Practical_30\Practical_30\Practical_30.Domain\obj\Debug\net8.0\Practical_30.Domain.AssemblyInfo.cs
+C:\Users\hem.gajjar\source\repos\Unit_Testing_Practical\Practical_30\Practical_30\Practical_30.Domain\obj\Debug\net8.0\Practical_30.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hem.gajjar\source\repos\Unit_Testing_Practical\Practical_30\Practical_30\Practical_30.Domain\obj\Debug\net8.0\Practical_30.Domain.dll
+C:\Users\hem.gajjar\source\repos\Unit_Testing_Practical\Practical_30\Practical_30\Practical_30.Domain\obj\Debug\net8.0\refint\Practical_30.Domain.dll
+C:\Users\hem.gajjar\source\repos\Unit_Testing_Practical\Practical_30\Practical_30\Practical_30.Domain\obj\Debug\net8.0\Practical_30.Domain.pdb
+C:\Users\hem.gajjar\source\repos\Unit_Testing_Practical\Practical_30\Practical_30\Practical_30.Domain\obj\Debug\net8.0\ref\Practical_30.Domain.dll

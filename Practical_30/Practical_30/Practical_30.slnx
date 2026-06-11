@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Practical_30.API/Practical_30.API.csproj" />
+  <Project Path="Practical_30.Application/Practical_30.Application.csproj" />
+  <Project Path="Practical_30.Domain/Practical_30.Domain.csproj" />
+  <Project Path="Practical_30.Infrastructure/Practical_30.Infrastructure.csproj" />
+  <Project Path="Practical_30.NUnitTests/Practical_30.NUnitTests.csproj" />
+  <Project Path="Practical_30.XUnitTests/Practical_30.XUnitTests.csproj" />
+</Solution>
